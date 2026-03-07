@@ -8,7 +8,6 @@
     "better-sqlite3": "^12.6.2",
     "call-bind-apply-helpers": "^1.0.2",
     "combined-stream": "^1.0.8",
-    "buffer-export": "^4.5.0",
     "cycletls": "^2.0.5",
     "data-uri-to-buffer": "^4.0.1",
     "delayed-stream": "^1.0.0",
